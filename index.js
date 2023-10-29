@@ -236,5 +236,5 @@ console.log("Завдання 17 ====================================");
 console.log(
   'substringString("Hello, world!", 0, 5)',
   substringString("Hello, world!", 0, 5)
-); // Виведе 'Hello'
+);
 
